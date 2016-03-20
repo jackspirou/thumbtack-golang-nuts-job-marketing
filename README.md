@@ -1,2 +1,2 @@
-# thumbtack-golang-nuts-solution
-This is an attempt to solve https://groups.google.com/forum/#!topic/golang-nuts/GMiNqx4oQDo just for fun.
+# thumbtack-golang-nuts-job-marketing
+This is cute job marketing attempt in a Go program by thumbstack.com  https://groups.google.com/forum/#!topic/golang-nuts/GMiNqx4oQDo just for fun.
